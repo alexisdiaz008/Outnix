@@ -17,7 +17,7 @@ gem 'sqlite3'
 # # Gem postgres 
 # 	gem 'pg'
 # end
-
+gem 'httparty'
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
