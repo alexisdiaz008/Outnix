@@ -18,7 +18,7 @@ end
 group :production do
 # Gem postgres 
   gem 'pg'
-
+  gem 'puma'
   gem 'rails_12factor'
 end
 
